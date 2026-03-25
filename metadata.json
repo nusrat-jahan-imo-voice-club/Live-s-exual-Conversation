@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Instagram Live Simulator",
+  "description": "A sophisticated Instagram Live and Video Call simulation app with real-time Telegram integration for remote control.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
