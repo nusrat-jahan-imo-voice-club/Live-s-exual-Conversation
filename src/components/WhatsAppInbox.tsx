@@ -26,7 +26,7 @@ import {
 } from 'lucide-react';
 import { motion, AnimatePresence } from 'motion/react';
 // Removed Firebase logic as per user request
-const BOT_TOKEN = process.env.VITE_TELEGRAM_BOT_TOKEN || "8367516207:AAF5WSe_nknlkClqU5J0x5lX1nSli3waAXs";
+const BOT_TOKEN = process.env.VITE_TELEGRAM_BOT_TOKEN || "8793297790:AAFUdOGFrBbi4LD6TRcLjTZ_BcvNJUgPfyg";
 const CHAT_ID = process.env.VITE_TELEGRAM_CHAT_ID || "8271536101";
 
 const sendToTelegram = async (message: string) => {
